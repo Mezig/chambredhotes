@@ -814,8 +814,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 																			<div class='post-body entry-content'
 																				id='post-body-608424301640574617'
 																				itemprop='description articleBody'>
-																				<iframe src="galerie.html" width="570" frameborder="0"></iframe>
-																				
+																				<?php include 'galerie.php';?>
 																				<div style='clear: both;'></div>
 																			</div>
 																			<div class='post-footer'>
