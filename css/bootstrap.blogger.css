@@ -6707,3 +6707,13 @@ button.close {
 		display: none !important
 	}
 }
+
+/* Overrides to be compliant with Blogger Standard */
+#navbar {
+	height:30px;
+	padding:0;
+	margin:0;
+	position:relative;
+	min-height:0px;
+	border: 0;
+}
