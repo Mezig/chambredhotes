@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html class='v2' dir='ltr'>
 <head>
@@ -10,7 +9,8 @@ b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f
 <meta content='blogger' name='generator' />
 <link href='http://chambreshotes-mb.blogspot.fr/favicon.ico' rel='icon'
 	type='image/x-icon' />
-<link href='http://chambreshotes-mb.blogspot.com/' rel='canonical' />
+<link href='http://chambreshotes-mb.blogspot.com/p/gallerie.html'
+	rel='canonical' />
 <link rel="alternate" type="application/atom+xml"
 	title="Chambres d&#39;hôtes - Atom"
 	href="http://chambreshotes-mb.blogspot.com/feeds/posts/default" />
@@ -20,18 +20,16 @@ b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f
 <link rel="service.post" type="application/atom+xml"
 	title="Chambres d&#39;hôtes - Atom"
 	href="http://www.blogger.com/feeds/404103495306099134/posts/default" />
-<link rel="openid.server" href="http://www.blogger.com/openid-server.g" />
-<link rel="openid.delegate" href="http://chambreshotes-mb.blogspot.com/" />
 <!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/3204238090-ieretrofit.js"></script>
 <![endif]-->
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
-<title>Chambres d'hôtes</title>
+<title>Chambres d'hôtes: Galerie</title>
 <link type='text/css' rel='stylesheet'
 	href='https://www.blogger.com/static/v1/widgets/1535467126-widget_css_2_bundle.css' />
 <link type='text/css' rel='stylesheet'
 	href='//www.google.com/uds/css/gsearch.css' />
 <link type='text/css' rel='stylesheet'
-	href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=404103495306099134&zx=6ff544b3-699e-40cf-a8a7-f9dae68a91d1' />
+	href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=404103495306099134&zx=3ac9c025-ca71-4d7b-abb0-5a3ea9ea6bfa' />
 <style id='page-skin-1' type='text/css'>
 <!-- /*-----------------------------------------------
 Blogger Template Style
@@ -202,14 +200,14 @@ a:hover {
 	border-radius: 0;
 }
 
-.Header img,.Header #header-inner {
+.Header img, .Header #header-inner {
 	-moz-border-radius: 0;
 	-webkit-border-radius: 0;
 	-goog-ms-border-radius: 0;
 	border-radius: 0;
 }
 
-.header-inner .Header .titlewrapper,.header-inner .Header .descriptionwrapper
+.header-inner .Header .titlewrapper, .header-inner .Header .descriptionwrapper
 	{
 	padding-left: 0;
 	padding-right: 0;
@@ -280,7 +278,7 @@ a:hover {
 	border-bottom-left-radius: 0;
 }
 
-.tabs-inner .widget li.selected a,.tabs-inner .widget li a:hover {
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
 	position: relative;
 	z-index: 1;
 	background: transparent
@@ -416,17 +414,17 @@ h3.post-title {
 }
 /* Widgets
 ----------------------------------------------- */
-.widget ul,.widget #ArchiveList ul.flat {
+.widget ul, .widget #ArchiveList ul.flat {
 	padding: 0;
 	list-style: none;
 }
 
-.widget ul li,.widget #ArchiveList ul.flat li {
+.widget ul li, .widget #ArchiveList ul.flat li {
 	border-top: dashed 1px #ccc;
 	border-top: dashed 1px rgba(128, 128, 128, .5);
 }
 
-.widget ul li:first-child,.widget #ArchiveList ul.flat li:first-child {
+.widget ul li:first-child, .widget #ArchiveList ul.flat li:first-child {
 	border-top: none;
 }
 
@@ -491,7 +489,7 @@ html body.mobile {
 	background: transparent none repeat scroll top left;
 }
 
-html .mobile .mobile-date-outer,html .mobile .blog-pager {
+html .mobile .mobile-date-outer, html .mobile .blog-pager {
 	border-bottom: none;
 	background: transparent
 		url(//www.blogblog.com/1kt/transparent/white80.png) repeat scroll top
@@ -505,7 +503,7 @@ html .mobile .mobile-date-outer,html .mobile .blog-pager {
 		left;
 }
 
-.mobile .header-outer,.mobile .main-outer,.mobile .post-outer,.mobile .footer-outer
+.mobile .header-outer, .mobile .main-outer, .mobile .post-outer, .mobile .footer-outer
 	{
 	-moz-border-radius: 0;
 	-webkit-border-radius: 0;
@@ -513,7 +511,7 @@ html .mobile .mobile-date-outer,html .mobile .blog-pager {
 	border-radius: 0;
 }
 
-.mobile .content-outer,.mobile .main-outer,.mobile .post-outer {
+.mobile .content-outer, .mobile .main-outer, .mobile .post-outer {
 	background: inherit;
 	border: none;
 }
@@ -526,7 +524,7 @@ html .mobile .mobile-date-outer,html .mobile .blog-pager {
 	background-color: #336699;
 }
 
-.mobile-link-button a:link,.mobile-link-button a:visited {
+.mobile-link-button a:link, .mobile-link-button a:visited {
 	color: #ffffff;
 }
 
@@ -552,7 +550,7 @@ body {
 	min-width: 960px;
 }
 
-.content-outer,.content-fauxcolumn-outer,.region-inner {
+.content-outer, .content-fauxcolumn-outer, .region-inner {
 	min-width: 960px;
 	max-width: 960px;
 	_width: 960px;
@@ -614,10 +612,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </head>
 <body class='loading variant-open'>
 	<div class='navbar section' id='navbar'></div>
-	<div itemscope='itemscope' itemtype='http://schema.org/Blog'
-		style='display: none;'>
-		<meta content='Chambres d&#39;hôtes' itemprop='name' />
-	</div>
 	<div class='body-fauxcolumns'>
 		<div class='fauxcolumn-outer body-fauxcolumn-outer'>
 			<div class='cap-top'>
@@ -672,7 +666,10 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 										<div class='widget Header' id='Header1'>
 											<div id='header-inner'>
 												<div class='titlewrapper'>
-													<h1 class='title'>Chambres d'hôtes</h1>
+													<h1 class='title'>
+														<a href='http://chambreshotes-mb.blogspot.fr/'>Chambres
+															d'hôtes</a>
+													</h1>
 												</div>
 												<div class='descriptionwrapper'>
 													<p class='description'>
@@ -703,10 +700,9 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 										<h2>Pages</h2>
 										<div class='widget-content'>
 											<ul>
+												<li><a href='index.php'>Accueil</a></li>
 												<li class='selected'><a
-													href='#'>Accueil</a></li>
-												<li><a
-													href='gallerie.php'>Galerie</a></li>
+													href='#'>Galerie</a></li>
 												<li><a
 													href='tarifs-reservations.php'>Tarifs
 														/ Disponibilitées</a></li>
@@ -808,45 +804,26 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 																			itemscope='itemscope'
 																			itemtype='http://schema.org/BlogPosting'>
 																			<meta content='404103495306099134' itemprop='blogId' />
-																			<meta content='3533963449457133200' itemprop='postId' />
-																			<a name='3533963449457133200'></a>
+																			<meta content='608424301640574617' itemprop='postId' />
+																			<a name='608424301640574617'></a>
+																			<h3 class='post-title entry-title' itemprop='name'>
+																				Galerie</h3>
 																			<div class='post-header'>
 																				<div class='post-header-line-1'></div>
 																			</div>
 																			<div class='post-body entry-content'
-																				id='post-body-3533963449457133200'
+																				id='post-body-608424301640574617'
 																				itemprop='description articleBody'>
-																				<span
-																					style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;">On
-																					sait depuis longtemps que travailler avec du texte
-																					lisible et contenant du sens est source de
-																					distractions, et empêche de se concentrer sur la
-																					mise en page elle-même. L'avantage du Lorem Ipsum
-																					sur un texte générique comme 'Du texte. Du texte.
-																					Du texte.' est qu'il possède une distribution de
-																					lettres plus ou moins normale, et en tout cas
-																					comparable avec celle du français standard. De
-																					nombreuses suites logicielles de mise en page ou
-																					éditeurs de sites Web ont fait du Lorem Ipsum leur
-																					faux texte par défaut, et une recherche pour 'Lorem
-																					Ipsum' vous conduira vers de nombreux sites qui
-																					n'en sont encore qu'à leur phase de construction.
-																					Plusieurs versions sont apparues avec le temps,
-																					parfois par accident, souvent intentionnellement
-																					(histoire d'y rajouter de petits clins d'oeil,
-																					voire des phrases embarassantes).</span><br /> <span
-																					style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;"><br /></span>
-																				<span
-																					style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;"><a
-																					href="http://chambreshotes-mb.blogspot.fr/p/test-titre-de-la-page.html">http://chambreshotes-mb.blogspot.fr/p/test-titre-de-la-page.html</a></span>
+																				<?php include 'contents/galerie.php';?>
 																				<div style='clear: both;'></div>
 																			</div>
 																			<div class='post-footer'>
 																				<div class='post-footer-line post-footer-line-1'>
 																					<span class='post-icons'> <span
-																						class='item-control blog-admin pid-1073607412'> <a
-																							href='http://www.blogger.com/post-edit.g?blogID=404103495306099134&postID=3533963449457133200&from=pencil'
-																							title='Modifier l&#39;article'> <img alt=''
+																						class='item-control blog-admin pid-1073607412'>
+																							<a
+																							href='http://www.blogger.com/page-edit.g?blogID=404103495306099134&pageID=608424301640574617&from=pencil'
+																							title='Modifier la page'> <img alt=''
 																								class='icon-action' height='18'
 																								src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif'
 																								width='18' />
@@ -855,33 +832,34 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 																					</span>
 																					<div class='post-share-buttons goog-inline-block'>
 																						<a class='goog-inline-block share-button sb-email'
-																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&postID=3533963449457133200&target=email'
+																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&pageID=608424301640574617&target=email'
 																							target='_blank' title='Envoyer par e-mail'><span
-																							class='share-button-link-text'>Envoyer par e-mail</span></a><a
+																							class='share-button-link-text'>Envoyer par
+																								e-mail</span></a><a
 																							class='goog-inline-block share-button sb-blog'
-																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&postID=3533963449457133200&target=blog'
+																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&pageID=608424301640574617&target=blog'
 																							onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;'
 																							target='_blank' title='BlogThis!'><span
 																							class='share-button-link-text'>BlogThis!</span></a><a
 																							class='goog-inline-block share-button sb-twitter'
-																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&postID=3533963449457133200&target=twitter'
+																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&pageID=608424301640574617&target=twitter'
 																							target='_blank' title='Partager sur Twitter'><span
-																							class='share-button-link-text'>Partager sur
-																								Twitter</span></a><a
+																							class='share-button-link-text'>Partager
+																								sur Twitter</span></a><a
 																							class='goog-inline-block share-button sb-facebook'
-																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&postID=3533963449457133200&target=facebook'
+																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&pageID=608424301640574617&target=facebook'
 																							onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;'
 																							target='_blank' title='Partager sur Facebook'><span
-																							class='share-button-link-text'>Partager sur
-																								Facebook</span></a><a
+																							class='share-button-link-text'>Partager
+																								sur Facebook</span></a><a
 																							class='goog-inline-block share-button sb-pinterest'
-																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&postID=3533963449457133200&target=pinterest'
+																							href='http://www.blogger.com/share-post.g?blogID=404103495306099134&pageID=608424301640574617&target=pinterest'
 																							target='_blank' title='Partager sur Pinterest'><span
-																							class='share-button-link-text'>Partager sur
-																								Pinterest</span></a>
+																							class='share-button-link-text'>Partager
+																								sur Pinterest</span></a>
 																						<div class='goog-inline-block dummy-container'>
 																							<g:plusone source='blogger:blog:plusone'
-																								href='http://chambreshotes-mb.blogspot.com/2014/10/article.html'
+																								href='http://chambreshotes-mb.blogspot.com/p/gallerie.html'
 																								size='medium' width='300' annotation='inline' />
 																						</div>
 																					</div>
@@ -890,6 +868,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 																					<span class='post-labels'> </span>
 																				</div>
 																				<div class='post-footer-line post-footer-line-3'></div>
+																			</div>
+																		</div>
+																		<div class='comments' id='comments'>
+																			<a name='comments'></a>
+																			<div id='backlinks-container'>
+																				<div id='Blog1_backlinks-container'></div>
 																			</div>
 																		</div>
 																	</div>
@@ -901,7 +885,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 														</div>
 														<div class='blog-pager' id='blog-pager'>
 															<a class='home-link'
-																href='http://localhost/'>Accueil</a>
+																href='index.php'>Accueil</a>
 														</div>
 														<div class='clear'></div>
 														<div class='blog-feeds'>
@@ -934,22 +918,23 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 																</div>
 															</div>
 															<style type='text/css'>
-#uds-searchControl .gs-result .gs-title,#uds-searchControl .gs-result .gs-title *,#uds-searchControl .gsc-results .gsc-trailing-more-results,#uds-searchControl .gsc-results .gsc-trailing-more-results *
-	{
+#uds-searchControl .gs-result .gs-title, #uds-searchControl .gs-result .gs-title *,
+	#uds-searchControl .gsc-results .gsc-trailing-more-results,
+	#uds-searchControl .gsc-results .gsc-trailing-more-results * {
 	color: #336699;
 }
 
-#uds-searchControl .gs-result .gs-title a:visited,#uds-searchControl .gs-result .gs-title a:visited *
+#uds-searchControl .gs-result .gs-title a:visited, #uds-searchControl .gs-result .gs-title a:visited *
 	{
 	color: #6699cc;
 }
 
-#uds-searchControl .gs-relativePublishedDate,#uds-searchControl .gs-publishedDate
+#uds-searchControl .gs-relativePublishedDate, #uds-searchControl .gs-publishedDate
 	{
 	color: #6f6f6f;
 }
 
-#uds-searchControl .gs-result a.gs-visibleUrl,#uds-searchControl .gs-result .gs-visibleUrl
+#uds-searchControl .gs-result a.gs-visibleUrl, #uds-searchControl .gs-result .gs-visibleUrl
 	{
 	color: #336699;
 }
@@ -990,7 +975,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </style>
 															<div class='clear'></div>
 															<span class='widget-item-control'> <span
-																class='item-control blog-admin'> <a class='quickedit'
+																class='item-control blog-admin'> <a
+																	class='quickedit'
 																	href='//www.blogger.com/rearrange?blogID=404103495306099134&widgetType=CustomSearch&widgetId=CustomSearch1&action=editWidget&sectionId=sidebar-right-1'
 																	onclick='return _WidgetManager._PopupConfig(document.getElementById("CustomSearch1"));'
 																	target='configCustomSearch1' title='Modifier'> <img
@@ -1012,11 +998,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 															</div>
 															<div class='clear'></div>
 															<span class='widget-item-control'> <span
-																class='item-control blog-admin'> <a class='quickedit'
+																class='item-control blog-admin'> <a
+																	class='quickedit'
 																	href='//www.blogger.com/rearrange?blogID=404103495306099134&widgetType=Slideshow&widgetId=Slideshow1&action=editWidget&sectionId=sidebar-right-1'
 																	onclick='return _WidgetManager._PopupConfig(document.getElementById("Slideshow1"));'
-																	target='configSlideshow1' title='Modifier'> <img alt=''
-																		height='18'
+																	target='configSlideshow1' title='Modifier'> <img
+																		alt='' height='18'
 																		src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png'
 																		width='18' />
 																</a>
@@ -1033,7 +1020,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 															</div>
 															<div class='clear'></div>
 															<span class='widget-item-control'> <span
-																class='item-control blog-admin'> <a class='quickedit'
+																class='item-control blog-admin'> <a
+																	class='quickedit'
 																	href='//www.blogger.com/rearrange?blogID=404103495306099134&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar-right-1'
 																	onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));'
 																	target='configHTML1' title='Modifier'> <img alt=''
@@ -1110,8 +1098,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 												class='item-control blog-admin'> <a class='quickedit'
 													href='//www.blogger.com/rearrange?blogID=404103495306099134&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3'
 													onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));'
-													target='configAttribution1' title='Modifier'> <img alt=''
-														height='18'
+													target='configAttribution1' title='Modifier'> <img
+														alt='' height='18'
 														src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png'
 														width='18' />
 												</a>
@@ -1153,9 +1141,9 @@ if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
 	<script type="text/javascript"
 		src="//www.google.com/uds/solutions/slideshow/gfslideshow.js"></script>
 	<script type='text/javascript'>
-if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV2";window['blogger_blog_id'] = '404103495306099134';BLOG_attachCsiOnload(''); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d404103495306099134','//chambreshotes-mb.blogspot.fr/','404103495306099134');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '404103495306099134', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Chambres d\47hôtes', 'pageType': 'index', 'url': 'http://chambreshotes-mb.blogspot.fr/', 'canonicalUrl': 'http://chambreshotes-mb.blogspot.com/', 'canonicalHomepageUrl': 'http://chambreshotes-mb.blogspot.com/', 'homepageUrl': 'http://chambreshotes-mb.blogspot.fr/', 'blogspotFaviconUrl': 'http://chambreshotes-mb.blogspot.fr/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': '', 'pageTitle': 'Chambres d\47hôtes', 'encoding': 'UTF-8', 'locale': 'fr', 'localeUnderscoreDelimited': 'fr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Chambres d\46#39;hôtes - Atom\42 href\75\42http://chambreshotes-mb.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Chambres d\46#39;hôtes - RSS\42 href\75\42http://chambreshotes-mb.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Chambres d\46#39;hôtes - Atom\42 href\75\42http://www.blogger.com/feeds/404103495306099134/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '\74link rel\75\42openid.server\42 href\75\42http://www.blogger.com/openid-server.g\42 /\76\n\74link rel\75\42openid.delegate\42 href\75\42http://chambreshotes-mb.blogspot.com/\42 /\76\n', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42https://www.blogger.com/static/v1/jsbin/3204238090-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/76f25a6f2e06af76', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'content_padding': '0', 'tabs_selected_background_color': 'transparent', 'region_shadow_spread': '3px', 'header_padding': '0', 'tab_selected_background_gradient': 'url(//www.blogblog.com/1kt/transparent/white80.png)', 'link_visited_color': '#6699cc', 'tabs_margin_sides': '20px', 'post_title_font': 'normal normal 18px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'tabs_separator_color': 'transparent', 'tabs_text_color': '#ffffff', 'header_background_gradient': 'none', 'widget_title_font': 'bold normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_background': '#111111 url(//themes.googleusercontent.com/image?id\0751OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa) repeat-x fixed top center', 'tab_first_border_radius': '10px', 'tabs_border_radius': '0', 'keycolor': '#1a222a', 'content_shadow_spread': '0', 'main_background': 'transparent url(//www.blogblog.com/1kt/transparent/white80.png) repeat scroll top left', 'header_font': 'normal normal 36px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'footer_background': 'transparent url(//www.blogblog.com/1kt/transparent/black50.png) repeat scroll top left', 'header_background_color': 'transparent', 'widget_title_text_transform': 'uppercase', 'footer_link_visited_color': '#77aaee', 'footer_link_hover_color': '#33aaff', 'footer_border_radius_bottom': '20px', 'tabs_background_gradient': 'none', 'tab_background': 'transparent url(//www.blogblog.com/1kt/transparent/black50.png) repeat scroll top left', 'mobile_background_overlay': 'transparent none repeat scroll top left', 'tabs_background_color': 'transparent', 'header_border_radius': '0', 'post_margin_sides': '-20px', 'link_hover_color': '#33aaff', 'footer_link_color': '#99ccee', 'content_background': 'transparent none repeat scroll top left', 'tabs_margin_bottom': '0', 'body_text_color': '#333333', 'main_padding_sides': '20px', 'post_border_color': '#dddddd', 'footer_text_color': '#cccccc', 'footer_border_radius_top': '0', 'post_background_color': '#ffffff', 'content_border_radius': '0', 'endSide': 'right', 'post_footer_text_color': '#999999', 'startSide': 'left', 'date_header_color': '#333333', 'tabs_font': 'normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_font': 'normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'post_border_radius': '5px', 'widget_title_text_color': '#888888', 'content_margin': '20px', 'link_color': '#336699', 'footer_widget_title_text_color': '#aaaaaa', 'header_text_color': '#ffffff', 'main_border_radius_top': '20px', 'region_shadow_offset': '1px', 'tab_border_radius': '10px', 'tabs_selected_text_color': '#336699', 'body_background_color': '#111111', 'tabs_spacing': '.25em'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
-_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol', null, document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'href': 'http://chambreshotes-mb.blogspot.fr/', 'title': 'Accueil', 'isCurrentPage': true}, {'href': 'http://chambreshotes-mb.blogspot.fr/p/blog-page.html', 'title': 'Galerie', 'isCurrentPage': false, 'id': '7536854688096205400'}, {'href': 'http://chambreshotes-mb.blogspot.fr/p/tarifs-reservations.html', 'title': 'Tarifs / Disponibilitées', 'isCurrentPage': false, 'id': '5619886123124611441'}, {'href': 'http://chambreshotes-mb.blogspot.fr/p/nous-contacter.html', 'title': 'Réserver / Nous Contacter', 'isCurrentPage': false, 'id': '6885607765363117809'}], 'mobile': false}, 'displayModeFull'));
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV2";window['blogger_blog_id'] = '404103495306099134';BLOG_attachCsiOnload('static_page_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d404103495306099134','//chambreshotes-mb.blogspot.fr/p/gallerie.html','404103495306099134');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '404103495306099134', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Chambres d\47hôtes', 'pageType': 'static_page', 'pageId': '608424301640574617', 'url': 'http://chambreshotes-mb.blogspot.fr/p/gallerie.html', 'canonicalUrl': 'http://chambreshotes-mb.blogspot.com/p/gallerie.html', 'canonicalHomepageUrl': 'http://chambreshotes-mb.blogspot.com/', 'homepageUrl': 'http://chambreshotes-mb.blogspot.fr/', 'blogspotFaviconUrl': 'http://chambreshotes-mb.blogspot.fr/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Galerie', 'pageTitle': 'Chambres d\47hôtes: Galerie', 'encoding': 'UTF-8', 'locale': 'fr', 'localeUnderscoreDelimited': 'fr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Chambres d\46#39;hôtes - Atom\42 href\75\42http://chambreshotes-mb.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Chambres d\46#39;hôtes - RSS\42 href\75\42http://chambreshotes-mb.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Chambres d\46#39;hôtes - Atom\42 href\75\42http://www.blogger.com/feeds/404103495306099134/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42https://www.blogger.com/static/v1/jsbin/3204238090-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/76f25a6f2e06af76', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'content_padding': '0', 'tabs_selected_background_color': 'transparent', 'region_shadow_spread': '3px', 'header_padding': '0', 'tab_selected_background_gradient': 'url(//www.blogblog.com/1kt/transparent/white80.png)', 'link_visited_color': '#6699cc', 'tabs_margin_sides': '20px', 'post_title_font': 'normal normal 18px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'tabs_separator_color': 'transparent', 'tabs_text_color': '#ffffff', 'header_background_gradient': 'none', 'widget_title_font': 'bold normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_background': '#111111 url(//themes.googleusercontent.com/image?id\0751OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa) repeat-x fixed top center', 'tab_first_border_radius': '10px', 'tabs_border_radius': '0', 'keycolor': '#1a222a', 'content_shadow_spread': '0', 'main_background': 'transparent url(//www.blogblog.com/1kt/transparent/white80.png) repeat scroll top left', 'header_font': 'normal normal 36px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'footer_background': 'transparent url(//www.blogblog.com/1kt/transparent/black50.png) repeat scroll top left', 'header_background_color': 'transparent', 'widget_title_text_transform': 'uppercase', 'footer_link_visited_color': '#77aaee', 'footer_link_hover_color': '#33aaff', 'footer_border_radius_bottom': '20px', 'tabs_background_gradient': 'none', 'tab_background': 'transparent url(//www.blogblog.com/1kt/transparent/black50.png) repeat scroll top left', 'mobile_background_overlay': 'transparent none repeat scroll top left', 'tabs_background_color': 'transparent', 'header_border_radius': '0', 'post_margin_sides': '-20px', 'link_hover_color': '#33aaff', 'footer_link_color': '#99ccee', 'content_background': 'transparent none repeat scroll top left', 'tabs_margin_bottom': '0', 'body_text_color': '#333333', 'main_padding_sides': '20px', 'post_border_color': '#dddddd', 'footer_text_color': '#cccccc', 'footer_border_radius_top': '0', 'post_background_color': '#ffffff', 'content_border_radius': '0', 'endSide': 'right', 'post_footer_text_color': '#999999', 'startSide': 'left', 'date_header_color': '#333333', 'tabs_font': 'normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_font': 'normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'post_border_radius': '5px', 'widget_title_text_color': '#888888', 'content_margin': '20px', 'link_color': '#336699', 'footer_widget_title_text_color': '#aaaaaa', 'header_text_color': '#ffffff', 'main_border_radius_top': '20px', 'region_shadow_offset': '1px', 'tab_border_radius': '10px', 'tabs_selected_text_color': '#336699', 'body_background_color': '#111111', 'tabs_spacing': '.25em'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol', null, document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'href': 'http://chambreshotes-mb.blogspot.fr/', 'title': 'Accueil', 'isCurrentPage': false}, {'href': 'http://chambreshotes-mb.blogspot.fr/p/gallerie.html', 'title': 'Galerie', 'isCurrentPage': true, 'id': '608424301640574617'}, {'href': 'http://chambreshotes-mb.blogspot.fr/p/tarifs-reservations.html', 'title': 'Tarifs / Disponibilitées', 'isCurrentPage': false, 'id': '5619886123124611441'}, {'href': 'http://chambreshotes-mb.blogspot.fr/p/nous-contacter.html', 'title': 'Réserver / Nous Contacter', 'isCurrentPage': false, 'id': '6885607765363117809'}], 'mobile': false}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {'attribution': 'Modèle Picture Window. Fourni par \74a href\75\47http://www.blogger.com\47 target\75\47_blank\47\76Blogger\74/a\76.'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2104260774-lbx__fr.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
