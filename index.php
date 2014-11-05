@@ -816,29 +816,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 																			<div class='post-body entry-content'
 																				id='post-body-3533963449457133200'
 																				itemprop='description articleBody'>
-																				<span
-																					style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;">On
-																					sait depuis longtemps que travailler avec du texte
-																					lisible et contenant du sens est source de
-																					distractions, et empêche de se concentrer sur la
-																					mise en page elle-même. L'avantage du Lorem Ipsum
-																					sur un texte générique comme 'Du texte. Du texte.
-																					Du texte.' est qu'il possède une distribution de
-																					lettres plus ou moins normale, et en tout cas
-																					comparable avec celle du français standard. De
-																					nombreuses suites logicielles de mise en page ou
-																					éditeurs de sites Web ont fait du Lorem Ipsum leur
-																					faux texte par défaut, et une recherche pour 'Lorem
-																					Ipsum' vous conduira vers de nombreux sites qui
-																					n'en sont encore qu'à leur phase de construction.
-																					Plusieurs versions sont apparues avec le temps,
-																					parfois par accident, souvent intentionnellement
-																					(histoire d'y rajouter de petits clins d'oeil,
-																					voire des phrases embarassantes).</span><br /> <span
-																					style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;"><br /></span>
-																				<span
-																					style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;"><a
-																					href="http://chambreshotes-mb.blogspot.fr/p/test-titre-de-la-page.html">http://chambreshotes-mb.blogspot.fr/p/test-titre-de-la-page.html</a></span>
+																				<?php include 'contents/accueil.php';?>
 																				<div style='clear: both;'></div>
 																			</div>
 																			<div class='post-footer'>
